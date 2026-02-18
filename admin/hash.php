@@ -7,3 +7,4 @@ echo "Original Password: " . $password . "<br>";
 echo "MD5 Hashed Password: " . $hashedPassword;
 ?>
 the password is 12345678
+but it is not working
