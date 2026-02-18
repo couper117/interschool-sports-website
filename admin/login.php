@@ -16,3 +16,9 @@
     <a href="../logout.php">Logout</a>
 </body>
 </html>
+<?php 
+if (isset($_GET['msg']) && $_GET['msg'] === 'password_changed') {
+    echo '<p style="color:green; text-align:center;">Password changed successfully. Please log in with your new password.</p>';
+}
+?>          
+

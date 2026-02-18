@@ -24,6 +24,7 @@ require_login();
         <a href="upload_content.php">Upload Content</a> |
         <a href="../logout.php">Logout</a>
         <a href="list_schools.php">Manage Schools (Edit/Delete)</a> |
+        <a href="change_password.php">Change My Password</a>
     </nav>
     <!-- You can add summary stats, recent activity, etc. here -->
 </body>
